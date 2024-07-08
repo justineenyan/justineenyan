@@ -4,8 +4,8 @@ My name is Justine
 A Computer science Major in 3rd Year
 Proficient in Python
 
-- 🔭 I’m currently working on building a Car listing APP using c Django
-- 🌱 I’m currently learning python and also Data structures and Algorithm
+- 🔭 I’m currently working on building a Car listing APP using 'Django'
+- 🌱 I’m currently learning Data structures and Algorithm
 - 👯 I’m looking to collaborate on any python related projects and am now learning how to use the framework 'Django'
 - 🤔 After Python I think the next language i'll will learn is C
 - 📫 How to reach me: justineafua246@icloud.com
